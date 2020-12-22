@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/vs-react/static/css/main.5dac1206.chunk.css",
-    "main.js": "/vs-react/static/js/main.371256ef.chunk.js",
-    "main.js.map": "/vs-react/static/js/main.371256ef.chunk.js.map",
+    "main.js": "/vs-react/static/js/main.04c9e155.chunk.js",
+    "main.js.map": "/vs-react/static/js/main.04c9e155.chunk.js.map",
     "runtime-main.js": "/vs-react/static/js/runtime-main.9e0bb29a.js",
     "runtime-main.js.map": "/vs-react/static/js/runtime-main.9e0bb29a.js.map",
     "static/css/2.649c97a3.chunk.css": "/vs-react/static/css/2.649c97a3.chunk.css",
-    "static/js/2.525192f1.chunk.js": "/vs-react/static/js/2.525192f1.chunk.js",
-    "static/js/2.525192f1.chunk.js.map": "/vs-react/static/js/2.525192f1.chunk.js.map",
+    "static/js/2.72ac3a9d.chunk.js": "/vs-react/static/js/2.72ac3a9d.chunk.js",
+    "static/js/2.72ac3a9d.chunk.js.map": "/vs-react/static/js/2.72ac3a9d.chunk.js.map",
     "index.html": "/vs-react/index.html",
     "static/css/2.649c97a3.chunk.css.map": "/vs-react/static/css/2.649c97a3.chunk.css.map",
     "static/css/main.5dac1206.chunk.css.map": "/vs-react/static/css/main.5dac1206.chunk.css.map",
-    "static/js/2.525192f1.chunk.js.LICENSE.txt": "/vs-react/static/js/2.525192f1.chunk.js.LICENSE.txt",
+    "static/js/2.72ac3a9d.chunk.js.LICENSE.txt": "/vs-react/static/js/2.72ac3a9d.chunk.js.LICENSE.txt",
     "static/media/index.css": "/vs-react/static/media/kanit_semibold.ffd5eeb3.ttf",
     "static/media/error-404-monochrome.a0894fb6.svg": "/vs-react/static/media/error-404-monochrome.a0894fb6.svg",
     "static/media/gijgo.min.css": "/vs-react/static/media/gijgo-material.db4c997f.woff"
@@ -19,8 +19,8 @@
   "entrypoints": [
     "static/js/runtime-main.9e0bb29a.js",
     "static/css/2.649c97a3.chunk.css",
-    "static/js/2.525192f1.chunk.js",
+    "static/js/2.72ac3a9d.chunk.js",
     "static/css/main.5dac1206.chunk.css",
-    "static/js/main.371256ef.chunk.js"
+    "static/js/main.04c9e155.chunk.js"
   ]
 }
